@@ -1,5 +1,7 @@
 **Global Trend Analysis: Exploratory Data Analysis on Gapminder Dataset**
+
 **Libraries used for the EDA **
+
 **1. NumPy (numpy)**
 **Purpose:**
 Provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
